@@ -1,0 +1,2 @@
+[ 2022-11-09 21:36:42,842 ] 20 root - INFO - Starting data ingestion-start_data_ingestion-training_pipeline.py
+[ 2022-11-09 21:37:06,562 ] 22 root - INFO - exporting data from mongodb to feature store-export_data_feature_store-data_ingetion.py
